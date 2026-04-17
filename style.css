@@ -2,11 +2,14 @@
 
 /* ======================== CSS Rule #1 */
 html {
-  background-color: white;
+  background-color: rgb(155, 18, 29);
   padding-left: 20px;
 }
 
 /* ======================== CSS Rule #2 */
 h1 {
-  font-family: "Poetsen One", sans-serif;
+  font-family: "Poetsen One", sans-serif; color:rgb(247, 202, 107); text-align: center;
+  border: 10px solid transparent; 
+  padding: 20px;
+  border-image: url("https://png.pngtree.com/png-vector/20250805/ourmid/pngtree-mystical-gothic-fantasy-parchment-with-ornate-arcane-border-and-holy-light-png-image_17022214.webp") 30 round; 
 }
