@@ -9,16 +9,20 @@ html {
 /* ======================== CSS Rule #2 */
 h1 {
   font-family: "Poetsen One", sans-serif; color:rgb(247, 202, 107); text-align: center;
-  border: 10px solid transparent; 
-  padding: 20px;
+  border: 27px solid transparent; 
+  padding: 25px;
   border-image: url("https://png.pngtree.com/png-vector/20250805/ourmid/pngtree-mystical-gothic-fantasy-parchment-with-ornate-arcane-border-and-holy-light-png-image_17022214.webp") 30 round; 
 }
 
+h3 {
+  
+  color: rgb(255, 255, 255)
+
+}
 
 img {
   margin:auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  
 }
